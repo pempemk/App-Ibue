@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591319172334",
+    "project_id": "ibue-183d9",
+    "storage_bucket": "ibue-183d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591319172334:android:96ab69d3a8882d32da9fff",
+        "android_client_info": {
+          "package_name": "com.example.ibue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591319172334-kn0p8t339kiqbu5e9absn4n759pji36n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArx2S6lB4AjfBLkqTi82pSOK8xiICimHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591319172334-kn0p8t339kiqbu5e9absn4n759pji36n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591319172334-kji1ktfshpmpi9r4ek9b5esvtjlsefku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ibue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
